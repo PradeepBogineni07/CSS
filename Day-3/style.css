@@ -1,0 +1,168 @@
+.main1{
+    margin-left: 40%;
+    margin-top: 5px;
+    width: 300px;
+    height: 550px;
+    border: 5px solid black;
+    border-radius: 30px;
+    background-color: rgb(234, 228, 221);
+    position: relative;
+    overflow: scroll;
+    scrollbar-width: none;
+}
+.header1{
+    width: 290px;
+    
+    height: 8%;
+    /* border-radius: 30px; */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: blanchedalmond;
+    padding-top: 10px;
+    position: fixed;
+
+}
+.arrow{
+margin-left: 10px;
+color: white;
+}
+.prof{
+    margin-left: 8px;
+    color: white;
+
+}
+.hm{
+    margin-left: 8px;
+}
+.vcall{
+color: white;
+margin-left: 40px;
+
+}
+.call{
+ color: white;
+ margin-left: 5px;
+
+}
+.dots{
+    color: white;
+    margin-left: 5px;
+}
+.down{
+    
+    position: fixed;
+    bottom: 90px;
+    width: 290px;
+    
+    height: 8%;
+    border-radius: 30px;
+    border-radius: 50px;
+    padding-top: 10px;
+    background-color: white;
+    z-index: 1;
+   
+}
+.micc{
+    border-radius: 50%;
+    background-color: greenyellow;
+    padding: 10px;
+}
+.ip{
+    border: none;
+    width: 130px;
+
+
+}
+.smile{
+  
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+}
+.pin{
+    width: 20px;
+    height: 20px;
+
+}
+.file{
+    width: 20px;
+    height: 20px;
+
+}
+.mic{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+
+}
+.Middle{
+    margin-top: 30px;
+}
+/* .rightmsgs{
+    border-radius: 30px;
+    background-color: rgb(168, 154, 136);
+    width: fit-content;
+    height: 25px;
+   
+    
+} */
+
+.leftmsgs{
+    border-radius: 30px;
+    background-color: rgb(143, 140, 136);
+    width: fit-content;
+    height: 25px;
+}
+
+.date{
+    width: fit-content;
+    border-radius: 30px;
+    background-color: rgb(245, 149, 149);
+    position: sticky;
+    top: 60px;
+    padding: 5px;
+    margin-left: 100px;
+   
+}
+.dr1{
+    width: 100%;
+    height: 120px;
+ text-align: right;
+ 
+}
+.dr2{
+    width: 100%;
+    height: 50px;
+ text-align: right;
+ 
+}
+.dr3{
+    width: 100%;
+    height: 90px;
+ text-align: right;
+ 
+}
+.dr4{
+    width: 100%;
+    height: 110px;
+ text-align: right;
+ 
+}
+.dr5{
+    width: 100%;
+    height: 170px;
+ text-align: right;
+ 
+}
+.r1{
+    
+    border-radius: 50px;
+    background-color: rgb(146, 158, 156);
+    /* width: fit-content; */
+   /* margin-left: 200px;
+    height: 25px; */
+    /* text-align: right; */
+    float: right;
+    clear: both;
+    
+}
